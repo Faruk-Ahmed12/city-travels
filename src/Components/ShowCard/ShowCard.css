@@ -1,0 +1,27 @@
+.card {
+  padding: 20px;
+  text-align: center;
+  background: #e40f0f;
+  border-radius: 10px;
+  text-decoration: none;
+}
+.productName {
+  text-align: center;
+  color: #fff;
+}
+a.showcardlink {
+  color: black;
+  text-decoration: none;
+  background-color: transparent;
+}
+a.showcardlink:hover {
+  text-decoration: none;
+  color: orangered;
+}
+img.card-img-top.img-fluid {
+  width: 200px;
+  height: 170px;
+}
+.card:hover {
+  box-shadow: 0px 0px 10px #312d2d;
+}

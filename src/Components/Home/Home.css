@@ -1,0 +1,11 @@
+.main-section {
+  background-image: url(./images/Bg.png);
+  background-size: cover;
+  background-position: center;
+  padding-top: 150px;
+  padding-bottom: 168px;
+}
+.upcomingpage {
+  text-align: center;
+  margin-top: 100px;
+}

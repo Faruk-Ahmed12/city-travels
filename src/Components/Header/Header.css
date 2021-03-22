@@ -1,0 +1,69 @@
+nav.navbar.navbar-expand-lg.navbar-light {
+  background: #f04608;
+}
+.loginMenu {
+  background-color: black;
+}
+.navbar-light .navbar-nav .nav-link {
+  color: white;
+  font-size: 18px;
+}
+a.loginMenu.nav-link {
+  background: red;
+  border-radius: 3px;
+  color: white;
+}
+a.loginMenu.nav-link:hover {
+  color: white !important;
+}
+
+@media only screen and (max-width: 320px) {
+  .navbar-light .navbar-brand {
+    color: rgba(0, 0, 0, 0.9);
+    width: 200px;
+  }
+  .card {
+    margin-top: 15px;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .navbar-light .navbar-brand {
+    color: rgba(0, 0, 0, 0.9);
+    width: 200px;
+  }
+  .card {
+    margin-top: 15px;
+  }
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+  .navbar-light .navbar-brand {
+    color: rgba(0, 0, 0, 0.9);
+    width: 200px;
+  }
+  .card {
+    margin-top: 15px;
+  }
+}
+b {
+  color: #ff0000;
+  padding: 10px;
+  background: #ffffff;
+  border-radius: 10px;
+}
+b span {
+  color: #406b18;
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+  .navbar-light .navbar-brand {
+    color: rgba(0, 0, 0, 0.9);
+    width: 200px;
+  }
+  .card {
+    margin-top: 15px;
+  }
+}

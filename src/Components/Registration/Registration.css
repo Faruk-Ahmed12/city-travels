@@ -1,0 +1,37 @@
+.registrations input[type="submit"] {
+  width: 100%;
+  background: rgb(248, 81, 20);
+  border: none;
+  border-radius: 3px;
+  padding: 10px;
+  color: white;
+  font-size: 18px;
+  font-weight: 500;
+  font-family: monospace;
+  outline: none;
+}
+.socialLink.text-center {
+  margin-bottom: 30px;
+}
+.errorMessege {
+  text-align: center;
+  margin-bottom: 30px;
+}
+.errorMessege span {
+  text-align: center;
+  color: #2caf6c;
+  padding: 6px;
+  box-shadow: 1px 1px 5px -2px #d2d2d2;
+  font-size: 15px;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+span.errormain {
+  text-align: center;
+  color: #dc3545;
+  padding: 6px;
+  box-shadow: 1px 1px 5px -2px #d2d2d2;
+  font-size: 15px;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
